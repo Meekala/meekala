@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm Zachary Choo, a developer currently learning about AI agents.
+I'm Zachary Choo, a product manager currently learning about AI agents.
+
+### Connect with me
+
+Find more about my professional background and projects on [LinkedIn](https://www.linkedin.com/in/zachary-choo/).
 
 <!--
 **Meekala/meekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
