@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi&nbsp;there&nbsp;👋&nbsp;I'm Zachary&nbsp;Choo
+  Hi&nbsp;there&nbsp;👋&nbsp;
 </h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/USC_Trojans_logo.svg"
        alt="USC logo" height="40">
   &nbsp;&nbsp;
-  <strong>University of Southern California Alumni • Product Manager</strong>
+  <strong>USC Alumni • Product Manager</strong>
 </p>
 
 ---
