@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Connect with me
-
-Find more about my professional background and projects on [LinkedIn](https://www.linkedin.com/in/zachary-choo/).
-
