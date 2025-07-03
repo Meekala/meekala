@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Zachary Choo, a developer currently learning about AI agents.
+
 <!--
 **Meekala/meekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me
+
+Find more about my professional background and projects on [LinkedIn](https://www.linkedin.com/in/zachary-choo/).
+
